@@ -4,7 +4,8 @@ Hi 👋 My name is Laluxury
 Hello, I'm 18 years old. I have a dream of becoming a front-end developer in the future.
 
 
-
+<a href="https://www.github.com/Laluxuryx" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Laluxuryx?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
 
